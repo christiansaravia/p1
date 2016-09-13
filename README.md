@@ -1,4 +1,4 @@
-# Christian Saravia's CSCI E-15 P1: System Setup / Portfolio
+# Christian's CSCI E-15 P1: System Setup / Portfolio
 
 ## Live URL
 <http://p1.christiansaravia.com>
