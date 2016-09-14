@@ -18,3 +18,4 @@ Links only have placeholders for now, and will update as soon as I build project
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/
+* Font Awesome: http://fontawesome.io/
