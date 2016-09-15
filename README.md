@@ -9,7 +9,7 @@ This is a portfolio to show the projects I'll complete in the CSCI E-15 course.
 The goal of this project is to ensure that my Git and server workflow are in working order.
 
 ## Demo
-<#>
+<https://youtu.be/okKo2B32ylU>
 
 ## Details for teaching team
 No login required.
